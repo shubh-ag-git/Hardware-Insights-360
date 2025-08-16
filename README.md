@@ -158,8 +158,8 @@
 **Questions about implementation?** | **Want to discuss business intelligence strategy?** | **Interested in similar transformations?**
 
 📧 **Email**: shagarwalbh@gmail.com  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shubh-agarwal-20621224b/)  
-🐙 **GitHub**: [Your GitHub Profile](https://github.com/shubh-ag-git)
+💼 **LinkedIn**: [Click Here](https://www.linkedin.com/in/shubh-agarwal-20621224b/)  
+🐙 **GitHub**: [Click Here](https://github.com/shubh-ag-git)
 
 ***
 
